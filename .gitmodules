@@ -32,3 +32,6 @@
 [submodule "CryptoPkg/Library/MbedTlsLib/mbedtls"]
 	path = CryptoPkg/Library/MbedTlsLib/mbedtls
 	url = https://github.com/ARMmbed/mbedtls
+[submodule "UnitTestFrameworkPkg/Library/SubhookLib/subhook"]
+	path = UnitTestFrameworkPkg/Library/SubhookLib/subhook
+	url = https://github.com/tianocore/edk2-subhook
